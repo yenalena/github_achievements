@@ -2,4 +2,4 @@
 깃허브 뱃지를 얻기위한 레포 😙
 
 * Pull Shark 🐬
-* Get Pull Shark too
+* Get Pull Shark 
